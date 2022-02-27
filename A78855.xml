@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties letter, sent from Holmby to both Houses of Parliament, with his Majesties propositions for some bishops or doctors appointed to attend his Majestie for the exercise of his conscience, and clearing of his judgement in the present differences in religion. With other papers concerning the propositions of the King and the commissioners at Holmby-House. And his Majesties desire to have some of these to be sent to him; viz. The Bishop of London. The Bishop of Salisbury. The Bishop of Peterborough. Dr. Shelden. Dr. May. Dr. Sanderson. Dr. Bayly. Dr. Heywood. Dr. Beale. Dr. Fuller. Dr. Hammond. Dr. Taylor.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78855</idno>
+            <idno type="STC">Wing C2395</idno>
+            <idno type="STC">Thomason E377_20</idno>
+            <idno type="STC">ESTC R201367</idno>
+            <idno type="EEBO-CITATION">99861890</idno>
+            <idno type="PROQUEST">99861890</idno>
+            <idno type="VID">159960</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78855)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159960)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E377[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties letter, sent from Holmby to both Houses of Parliament, with his Majesties propositions for some bishops or doctors appointed to attend his Majestie for the exercise of his conscience, and clearing of his judgement in the present differences in religion. With other papers concerning the propositions of the King and the commissioners at Holmby-House. And his Majesties desire to have some of these to be sent to him; viz. The Bishop of London. The Bishop of Salisbury. The Bishop of Peterborough. Dr. Shelden. Dr. May. Dr. Sanderson. Dr. Bayly. Dr. Heywood. Dr. Beale. Dr. Fuller. Dr. Hammond. Dr. Taylor.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>C. W.</author>
+                  <author>Smith, W., of Nottingham.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed anno Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of 3 letters: one by Charles I, dated Holmby, Feb. 17. 1646 [i.e. 1647]; one dated and signed: Holmby Feb. 17. C.W.; and one signed and dated: W. Smith. Dated at our quarters at Holmby; this 18. of February 1646 [i.e. 1647].</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "feb: 22th 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Church of England --  Bishops --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159960:1" rendition="simple:additions"/>
+            <p>THE KINGS Maieſties Letter, Sent from Holmby to both Houſes of PARLIAMENT, With his Majeſties Propoſitions for ſome Biſhops or Doctors appointed to attend his Majeſtie for the exerciſe of his Conſcience, and clearing of his judgement in the preſent differences in Raligion.</p>
+            <p>With other Papers concerning the Propoſitions of the King and the Commiſsioners at Holmby-Houſe.</p>
+            <p>And his Majeſties deſire to have ſome of theſe to be ſent to him; <hi>viz.</hi>
+            </p>
+            <list>
+               <item>The Biſhop of <hi>London.</hi>
+               </item>
+               <item>The Biſhop of <hi>Salisbury.</hi>
+               </item>
+               <item>The Biſhop of <hi>Peterborough.</hi>
+               </item>
+               <item>Dr. Shelden.</item>
+               <item>Dr. May.</item>
+               <item>Dr. Sa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>derſon.</item>
+               <item>Dr. Bayly.</item>
+               <item>Dr. Heywood.</item>
+               <item>Dr. Beale.</item>
+               <item>Dr. Fuller.</item>
+               <item>Dr. Hammond,</item>
+               <item>Dr. Taylor.</item>
+            </list>
+            <p>London Printed Anno Dom.<lb/> 1647</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159960:2"/>
+            <pb facs="tcp:159960:2"/>
+            <head>The Copie of a LETTER Sent from the KINGS Maieſty at <hi>Holmby,</hi> to the Speaker of the Houſe of Peeres, <hi>pro tempore,</hi> to be communicated to both Houſes of PARLIAMENT.</head>
+            <head>With a Liſt of the names of the Biſhops and Doctors propounded by the King to attend his Majeſty.</head>
+            <opener>
+               <signed>CAROL<g ref="char:V">Ʋ</g>S REX.</signed>
+            </opener>
+            <p>SInce I have never diſſembled, nor hid my conſcience. And that I am not yet ſatisfied, with the alteration in Religi<g ref="char:EOLhyphen"/>on, to which ye deſire my conſent;</p>
+            <p>I will not looſe time in giving reaſons, (which are too obvious to every body) why it is fit for me to be attended by ſome of
+<pb facs="tcp:159960:3"/>my Chaplains, whoſe opinions (as Clergy<g ref="char:EOLhyphen"/>men) I eſteeme and reverence.</p>
+            <p>Not onely for the exerciſe of my conſci<g ref="char:EOLhyphen"/>ence; but alſo for the clearing of my judge<g ref="char:EOLhyphen"/>ment, concerning the pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſent differences in Religion; as I have (at full) declared to Mr. Marſhall, and his Fellow-Miniſter: having ſhewed them that is the beſt and likelieſt meanes of giving me ſatisfaction (which without it, I cannot have) in theſe things; whereby the diſtractions of the Church may be the better ſetled.</p>
+            <p>Wherefore I deſire, that (at leaſt) two of theſe reverend Divines, whoſe names I have here ſet downe, may have free liberty to wait upon me, for the diſcharging of their duties to me, according to their Function.</p>
+            <closer>
+               <dateline>Holmby <date>Feb. 17. 1646.</date>
+               </dateline>
+               <signed>Charles Rex.</signed>
+
+               <pb facs="tcp:159960:3"/>
+            </closer>
+            <postscript>
+               <p>For the Speaker of the Houſe of Peers, <hi>pro tempore,</hi> to be communicated to the two Houſes of Parliament at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi> aſſembled.</p>
+               <list>
+                  <item>The Biſhop of <hi>London.</hi>
+                  </item>
+                  <item>The Biſhop of <hi>Salisbury.</hi>
+                  </item>
+                  <item>The Biſhop of <hi>Peterborough.</hi>
+                  </item>
+                  <item>Dr. <hi>Shelden,</hi> Clerk of my C<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſet.</item>
+                  <item>Dr. <hi>May,</hi> Deane of <hi>York.</hi>
+                  </item>
+                  <item>Dr. <hi>Sanderſon.</hi>
+                  </item>
+                  <item>Dr. <hi>Baylay.</hi>
+                  </item>
+                  <item>D <hi>Heywood.</hi>
+                  </item>
+                  <item>Dr. <hi>Beale.</hi>
+                  </item>
+                  <item>Dr. <hi>Fuller.</hi>
+                  </item>
+                  <item>Dr. <hi>Hammond.</hi>
+                  </item>
+                  <item>Dr. <hi>Taylor.</hi>
+                  </item>
+               </list>
+               <p>Thus far the Kings Letter</p>
+            </postscript>
+            <postscript>
+               <p>Theſe or two or more of theſe Biſhops and Epiſ<g ref="char:EOLhyphen"/>copali Doctors, his Majeſty deſires may have free libertie to wait upon him, to officiate for the exerciſe of his conſcience, and clearing of his conſcience.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>The Copie of a Letter from <hi>Holmby-Houſe,</hi> concerning ſome aſſaires ſince his Majeſties and the Comiſſioners comming thither.</head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>BEing come ſo neere, I cannot chuſe but kiſſe your hand with a ſalute of my reall affection: I am not ignorant, that as we expect determination from your Orb, ſo you reſolution from this. I wiſh I cou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſa<g ref="char:EOLhyphen"/>tisfie your expectation in letting you underſtand what we ſo much d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ubt, and therefore are the ſadder. What I have to communicate (at preſent) as a cer<g ref="char:EOLhyphen"/>tainty is this, concerning the King, the Commiſſio<g ref="char:EOLhyphen"/>ners, the Miniſters, and their endeavours with his Ma<g ref="char:EOLhyphen"/>jeſty.</p>
+            <p n="1">1. Concerning the King, his Majeſty is very cheer<g ref="char:EOLhyphen"/>full and pleaſant, but much grayer then he was when he went from his Court at White-hall: he is very fa<g ref="char:EOLhyphen"/>miliar with the Lords and deſires to be as neer Lon<g ref="char:EOLhyphen"/>don as may be. His Majeſty came hither yeſter night, all things being ſo well prepared, that his Maieſty ſhewed no diſlike at all: he deſired Sir Fulk Grivell might be his Cup-bearer, and Mr. Mildmay hath his place by the Kings appointment alſo. No Malignants are permitted, nor dare attempt to come to come to his Majeſtie, his Majeſtie being freed from thoſe late fittings up and watchings that he had before, begins now to look better.</p>
+            <pb facs="tcp:159960:4"/>
+            <p n="2">2 The Commiſsioners are tyred with a long and tedious journey, tyreſome wayes, and a carefull charge and would take it for a very great favour, if they might be called home, being very willing to reſigne up their places.</p>
+            <p n="3">3 The Miniſters, Mr. Marſhall, and Mr. Carol preached on the Lords Day, but the King will not hear them, His Majeſty hath often conference with them, and argues very ſtifly for Epiſcopacy, and the Book of com<g ref="char:EOLhyphen"/>mon prayer, and againſt the Covenant, and they endeavour to give his Majeſty fatisfacti<g ref="char:EOLhyphen"/>on in every ſcruple; one of them ſayes grace every day at his Majeſties table But his Maje<g ref="char:EOLhyphen"/>ſty would faine have ſome of his own Chap<g ref="char:EOLhyphen"/>lains that are not for the Presbyterian way; yet do we not ſo deſpaire, but that wee hope in good time, his Maieſty will bee wrought vpon to joyn with the Parliament, if ill in<g ref="char:EOLhyphen"/>ſtruments be ſtill kept from him. God grant an happy union. Thus I conclude,</p>
+            <closer>
+               <dateline>Holmby <date>Feb. 17:</date>
+               </dateline>
+               <signed>Your obedient ſervant, C. W.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:159960:4"/>
+            <head>The Copy of another Letter from <hi>Holmby</hi> houſe, concerning his Ma<g ref="char:EOLhyphen"/>ieſties Letter ſent by the Commif<g ref="char:EOLhyphen"/>ſioners.</head>
+            <opener>
+               <salute>Honorable Sir,</salute>
+            </opener>
+            <p>His Majeſty told the Lords, that hee had a Letter to ſend to the Parla<g ref="char:EOLhyphen"/>ment, for ſome of his own Chaplaines, to have liberty to be with Him; And offe<g ref="char:EOLhyphen"/>red their Lordſhips to read the ſaid Let<g ref="char:EOLhyphen"/>ter before his Majeſty had ſealed it, and to ſend it to the Parliament. But their Lordſhips acquainted his Majeſty, that they could not do it ſafely by their Jnſtru<g ref="char:EOLhyphen"/>ctions; but if his Majeſty would ſeale it up, they would ſend it to the Parliament,
+<pb facs="tcp:159960:5"/>which his Majeſty did, and gave it to their Lordſhips, who have ſent it up ac<g ref="char:EOLhyphen"/>cordingly, Their Lordſhips deſiring liber<g ref="char:EOLhyphen"/>ty to come to London, being weary of the preſent imployment. Sir, no more at pre<g ref="char:EOLhyphen"/>ſent, but that I ſubſcribe my ſelf,</p>
+            <closer>
+               <signed>Your moſt humble ſervant, <hi>W. SMITH.</hi>
+               </signed>
+               <dateline>Dated at our quarters at Holmby; <date>this 18. of February 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
